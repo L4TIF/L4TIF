@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @L4TIF (Latiful Rahman)
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning Computer Science
 
 
